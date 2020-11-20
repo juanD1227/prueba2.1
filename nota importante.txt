@@ -1,0 +1,1 @@
+para que cojan los iconos usar version font-awesome-4.7.0
